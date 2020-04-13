@@ -186,6 +186,9 @@ blockquote span{
   transform: translateX(-30%);
 }
 
+.major p{
+  color: #fff !important;
+}
 /*.testing{
   border: 2px solid red;
   background: red;
