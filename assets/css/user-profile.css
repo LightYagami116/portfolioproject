@@ -123,7 +123,7 @@ Media queries
   .starLink{
     list-style-type: none;
     position: relative;
-    top:
+    top: 200px;
     left: 7.4rem;
     z-index: 10000;
   }
