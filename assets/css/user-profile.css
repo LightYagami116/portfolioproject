@@ -230,13 +230,13 @@ blockquote span{
 .footer-quote{
   margin: 0 auto;
 }
-/*.starLink{
+.starLink{
   list-style-type: none;
   position: relative;
   left: 7.4rem;
-  bottom: -.4rem;
+  bottom: -7.4rem;
   z-index: 10000;
-}*/
+}
 #contact{overflow: hidden !important;}
 /*=============================================================
 Styles for star night in footers
