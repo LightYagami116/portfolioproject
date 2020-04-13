@@ -235,6 +235,7 @@ blockquote span{
   position: absolute !important;
   left: 7.4rem;
   z-index: 10000;
+  visibility: hidden;
 }
 #contact{overflow: hidden !important;}
 /*=============================================================
