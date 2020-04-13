@@ -239,8 +239,8 @@ blockquote span{
 .starLink{
   list-style-type: none;
   position: relative;
+  top: -20px;
   z-index: 10000;
-  padding: 0;
 }
 #contact{overflow: hidden !important;}
 /*=============================================================
