@@ -232,7 +232,7 @@ blockquote span{
 }
 .starLink{
   list-style-type: none;
-  position: fixed !important;
+  position: absolute !important;
   left: 7.4rem;
   z-index: 10000;
 }
