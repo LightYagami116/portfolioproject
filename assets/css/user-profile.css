@@ -240,6 +240,7 @@ blockquote span{
   list-style-type: none;
   position: relative;
   z-index: 10000;
+  padding: 0;
 }
 #contact{overflow: hidden !important;}
 /*=============================================================
