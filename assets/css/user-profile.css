@@ -123,8 +123,8 @@ Media queries
   .starLink{
     list-style-type: none;
     position: relative;
+    top:
     left: 7.4rem;
-    bottom: 1rem;
     z-index: 10000;
   }
 }
