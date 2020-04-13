@@ -121,6 +121,12 @@ Media queries
     visibility: hidden;
   }
 }
+@media screen and (max-width: 737px){
+  .starlink{
+    margin-top: -6.2rem;
+    margin-left: 10rem;
+  }
+}
 /*====================================================================
 Experimental Code
 =====================================================================*/
