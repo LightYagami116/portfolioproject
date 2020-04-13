@@ -1,4 +1,4 @@
-*{list-style-type: none;}
+*{list-style-type: none !important;}
 .isDisabled{
   cursor: not-allowed;
   pointer-events: none;
