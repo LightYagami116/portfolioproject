@@ -120,13 +120,6 @@ Media queries
   blockquote{
     visibility: hidden;
   }
-  .starLink{
-    list-style-type: none;
-    position: relative;
-    top: 200px;
-    left: 7.4rem;
-    z-index: 10000;
-  }
 }
 /*====================================================================
 Experimental Code
